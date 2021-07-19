@@ -1,5 +1,5 @@
 # Password-Generate
- 
+ This is a password generator! On load you will click "Generate Password" button. You will then be prompted to choose the amount of characters and if you would like to use Uppercase or lowercase letters, numbers and symbols. Once choosing the perameters your password will be displayed.
 # Code used
 HTML, Javascript, Jquery, CSS
 
